@@ -29,7 +29,7 @@ namespace Written_Test_1
             }
             else
             {
-                Console.WriteLine("Not a Prime Number");
+                Console.WriteLine(num + "Not a Prime Number");
             }
 
         }
